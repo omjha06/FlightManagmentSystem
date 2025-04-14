@@ -1,5 +1,5 @@
-# FlightHub (DS Group 40) ✈️
-## Question 3 - Flight Ticket Booking System
+# FlightHub  ✈️
+# Flight Ticket Booking System
 ### Features:
   1. Register and Login
   2. Search for flights based on date, source and destination
